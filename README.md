@@ -15,7 +15,6 @@ I'm am Junior developer with a focus on creating tools and applications that enh
 - [steam-game-patcher](https://github.com/marhau-dev/steam-game-patcher) - Patch steam games and remove DRM | ⭐ 0 | Language: `Python` | Forks: 0 | Issues: 0
 - [mcservertl](https://github.com/marhau-dev/mcservertl) - Minecraft server creation tool | ⭐ 0 | Language: `Python` | Forks: 0 | Issues: 0
 - [spotify-no-ads](https://github.com/marhau-dev/spotify-no-ads) - Spotify desktop app without ads | ⭐ 0 | Language: `PowerShell` | Forks: 0 | Issues: 0
-- [ps4-mods](https://github.com/marhau-dev/ps4-mods) - A library for PS4 mods | ⭐ 0 | Language: `unknown` | Forks: 0 | Issues: 1
 
 ## GitHub Stats
 
