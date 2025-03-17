@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **Marhau**, a passionate developer from the **Ukraine**. I love creating innovative projects and exploring new technologies. Welcome to my GitHub profile!
+I'm **Marhau**, a passionate developer from **Ukraine**. I love creating innovative projects and exploring new technologies. Welcome to my GitHub profile!
 
 ## About Me
 
